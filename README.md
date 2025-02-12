@@ -6,5 +6,6 @@ A web-based application to calculate logistics shipping costs based on distance,
 2. Install dependencies using `npm install`
 3. Run the app using `npm start`
 
-## Contributing
+## Contributing to shipment
+
 Please refer to the CONTRIBUTING.md file for guidelines.
